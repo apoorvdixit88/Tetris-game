@@ -1,4 +1,4 @@
-import pygame
+import pygame #importing pygame 
 import random
 
 pygame.font.init()
